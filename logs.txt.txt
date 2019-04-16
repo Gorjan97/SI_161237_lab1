@@ -1,0 +1,5 @@
+commit 786f87ef9a79b3c4b6740c7df6cd2a4754e00170 (HEAD -> logs, origin/master, master)
+Author: Gorjan Momchilov <Gorjan.Momchilov@gmail.com>
+Date:   Tue Apr 16 15:39:18 2019 +0200
+
+    Initial commit
